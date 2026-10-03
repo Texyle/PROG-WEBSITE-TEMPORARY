@@ -11,7 +11,7 @@ const COUNTRIES = {
   rs: "Serbia", ru: "Russia", se: "Sweden", sg: "Singapore", sk: "Slovakia", th: "Thailand", tw: "Taiwan",
   ua: "Ukraine", us: "United States",
 };
-const PAGES = { wlatr: "profile.html", "Magnum Opus": "map.html" };
+const PAGES = { wlatr: "index.html", "Magnum Opus": "map.html" };
 const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
 const calm = matchMedia("(prefers-reduced-motion: reduce)");
 
